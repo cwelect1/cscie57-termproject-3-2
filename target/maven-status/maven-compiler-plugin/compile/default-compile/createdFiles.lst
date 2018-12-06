@@ -1,0 +1,10 @@
+weinberg/corbett/term/project/init/WebInitializer.class
+weinberg/corbett/term/project/util/UrlUtil.class
+weinberg/corbett/term/project/web/BookController.class
+weinberg/corbett/term/project/entities/Book.class
+weinberg/corbett/term/project/util/BookGrid.class
+weinberg/corbett/term/project/util/Message.class
+weinberg/corbett/term/project/services/BookService.class
+weinberg/corbett/term/project/util/DateFormatter.class
+weinberg/corbett/term/project/services/BookServiceImpl.class
+weinberg/corbett/term/project/repos/BookRepository.class
