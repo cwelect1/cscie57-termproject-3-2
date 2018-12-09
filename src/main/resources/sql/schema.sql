@@ -1,4 +1,4 @@
--- Corbett Weinberg - Term Project Part 3 - Assignment 3.1
+-- Corbett Weinberg - Term Project Part 3 - Assignment 3.2
 
 CREATE TABLE BOOK (
        ID INT (11) NOT NULL AUTO_INCREMENT
